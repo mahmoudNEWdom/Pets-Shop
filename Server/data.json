@@ -1,0 +1,104 @@
+{
+  "animalList": [
+    {
+      "id": 1,
+      "kind": "Cat",
+      "species": "Persian",
+      "age": 3,
+      "price": 75,
+      "quantity": 8,
+      "img": "images/persian_cat.jpg",
+      "description": "The Persian cat is known for its luxurious, long fur and calm demeanor. This affectionate feline loves cozy naps and gentle petting, making it a perfect companion for those seeking a laid-back and regal pet."
+    },
+    {
+      "id": 2,
+      "kind": "Dog",
+      "species": "Golden Retriever",
+      "age": 5,
+      "price": 150,
+      "quantity": 5,
+      "img": "images/golden_retriever.jpg",
+      "description": "The Golden Retriever is a loyal, friendly, and intelligent breed, ideal for families and active individuals. With its playful nature and eagerness to please, this dog thrives on companionship and outdoor adventures."
+    },
+    {
+      "id": 3,
+      "kind": "Bird",
+      "species": "Macaw",
+      "age": 2,
+      "price": 250,
+      "quantity": 3,
+      "img": "images/macaw.jpg",
+      "description": "The Macaw is a vibrant, intelligent parrot with a striking rainbow of feathers. Known for its playful personality and ability to mimic sounds, this bird brings color and joy to any household."
+    },
+    {
+      "id": 4,
+      "kind": "Fish",
+      "species": "Clownfish",
+      "age": 1,
+      "price": 30,
+      "quantity": 15,
+      "img": "images/clownfish.jpg",
+      "description": "The Clownfish, made famous by its bright orange and white stripes, is a peaceful aquatic companion. This species is perfect for saltwater aquarium enthusiasts who enjoy colorful and lively fish."
+    },
+    {
+      "id": 5,
+      "kind": "Rabbit",
+      "species": "Angora",
+      "age": 4,
+      "price": 60,
+      "quantity": 7,
+      "img": "images/angora_rabbit.jpg",
+      "description": "The Angora Rabbit is famous for its incredibly soft and silky fur, making it a gentle and cuddly pet. This friendly rabbit enjoys quiet spaces and is a delight for anyone seeking a calm and fluffy friend."
+    },
+    {
+      "id": 6,
+      "kind": "Hamster",
+      "species": "Dwarf",
+      "age": 2,
+      "price": 25,
+      "quantity": 12,
+      "img": "images/dwarf_hamster.jpg",
+      "description": "The Dwarf Hamster is a tiny bundle of energy, perfect for small pet lovers. With its curious nature and love for tunnels, this hamster provides endless entertainment in its miniature habitat."
+    },
+    {
+      "id": 7,
+      "kind": "Reptile",
+      "species": "Leopard Gecko",
+      "age": 3,
+      "price": 100,
+      "quantity": 6,
+      "img": "images/leopard_gecko.jpg",
+      "description": "The Leopard Gecko is a hardy and low-maintenance reptile with beautiful, spotted patterns. Known for its gentle disposition and nocturnal nature, this gecko is an excellent pet for both beginners and seasoned reptile keepers."
+    },
+    {
+      "id": 8,
+      "kind": "Bird",
+      "species": "Canary",
+      "age": 1,
+      "price": 45,
+      "quantity": 10,
+      "img": "images/canary.jpg",
+      "description": "The Canary is a melodious bird with a cheerful yellow plumage. Its sweet songs brighten any room, making it a favorite for bird enthusiasts who value beauty and harmony in their pets."
+    },
+    {
+      "id": 9,
+      "kind": "Cat",
+      "species": "Sphynx",
+      "age": 2,
+      "price": 200,
+      "quantity": 4,
+      "img": "images/sphynx_cat.jpg",
+      "description": "The Sphynx cat stands out with its unique, hairless appearance and warm, soft skin. This highly social and playful feline is perfect for those looking for a hypoallergenic and affectionate companion."
+    },
+    {
+      "id": 10,
+      "kind": "Dog",
+      "species": "Husky",
+      "age": 6,
+      "price": 180,
+      "quantity": 3,
+      "img": "images/husky.jpg",
+      "description": "The Husky is an energetic and strikingly beautiful breed with a thick, double coat and piercing blue eyes. Known for its friendly nature and love of the outdoors, this dog is perfect for active families."
+    }
+  ]
+}
